@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2" tvg-name="MRT 1", MRT 1
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=454382653&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjUgMTE6NTI6MzYgUE0maGFzaF92YWx1ZT01Q1Qzc0s2NnhhdWE2TGU3SFNpN3VBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="3" tvg-name="Sitel TV", Sitel TV
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=454382654&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjUgMTE6NTI6NDYgUE0maGFzaF92YWx1ZT1RRFdLUFVkRXJrQ21DWDZSU0pjcENnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="4" tvg-name="Kanal 5", Kanal 5
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11854383&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjUgMTE6NTI6NTMgUE0maGFzaF92YWx1ZT0zUVFQOE16S1Iwcmd6WnRoN3F4MGtRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="5" tvg-name="Telma TV", Telma TV
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=454382656&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjUgMTE6NTM6MDEgUE0maGFzaF92YWx1ZT1OS3lkeUhNSDNNSmRTRDYyUXFxeVZBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="6" tvg-name="Alfa TV", Alfa TV
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=454382659&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjUgMTE6NTM6MDkgUE0maGFzaF92YWx1ZT1yWHRoM3NVQkVNT2dHeG40eVB6RFd3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="7" tvg-name="24 Vesti", 24 Vesti
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=454382661&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjUgMTE6NTM6MTcgUE0maGFzaF92YWx1ZT1PWEdXVEM1YnpaaDhoOGpHZUovYlNRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="8" tvg-name="MKTV 21", MKTV 21
+https://t2.tvmak.com/tv/TV21MK.m3u8?1IDUuO70RM
+#EXTINF:-1 tvg-id="9" tvg-name="MRT 1 SAT", MRT 1 SAT
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=21783179&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjUgMTE6NTM6MzIgUE0maGFzaF92YWx1ZT1jUG1nbkdsYWRudCtsUFAwMGVVTTJ3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY3ZjViNmZjYjIxYmQ=
+#EXTINF:-1 tvg-id="10" tvg-name="Sobraniski Kanal", Sobraniski Kanal
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=21783182&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjUgMTE6NTM6MzggUE0maGFzaF92YWx1ZT1ra2JXNzB6eWNxakpIWCtpaDhON3pRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY3ZjViNzAyYzk3Mjk=
