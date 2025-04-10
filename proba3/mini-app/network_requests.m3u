@@ -1,17 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=454472783&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjEwOjMwIEFNJmhhc2hfdmFsdWU9cnlrM01aczB1dlZnalFuUDUwZ3Irdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=454473276&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjIyOjMzIEFNJmhhc2hfdmFsdWU9TXE5eklJVmllTFlqNUhESklIVEQzdz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=454472788&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjEwOjM5IEFNJmhhc2hfdmFsdWU9MFlOMUZCVG95UTdDSCtRQnJSaFU2dz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=454473285&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjIyOjQ1IEFNJmhhc2hfdmFsdWU9OFFrczBzRHA4WGNCQ1luclVBemNsZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="15" tvg-name="Max Sport 1", Max Sport 1
+https://cdn10.stgledai.org/mtelsport/tracks-v1a1/mono.m3u8?token=add9cb885dc9d4d93089ca58e75f11bfb5ee4876-ff9108a476d62c84527ca101d7321907-1744294653-1744283853
 #EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11891410&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjEwOjQ3IEFNJmhhc2hfdmFsdWU9aFNGU3NMQXpjbmlSZ3VhMkdNQWtLUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11891674&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjIyOjUzIEFNJmhhc2hfdmFsdWU9V3pLV29YcVpNaEQvaFozdHVtMVZ2UT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="4" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=454472807&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjEwOjU0IEFNJmhhc2hfdmFsdWU9S1JRbXhTazI1d1hJU1IvSTh6UGRYQT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=454473295&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjIzOjAyIEFNJmhhc2hfdmFsdWU9WlVnVjFPZHFYcUJFMllxNzJ3Q2kvQT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=454472812&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjExOjAyIEFNJmhhc2hfdmFsdWU9THFTdVZlWHhTa3UzeEJmSndXUjBDQT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=454473300&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjIzOjExIEFNJmhhc2hfdmFsdWU9a3BqQWJhRExoVXBOVWpFbmlZM0dQdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="16" tvg-name="Max Sport 2", Max Sport 2
+https://cdn9.stgledai.org/mtelsport2/tracks-v1a1/mono.m3u8?token=4f37bb38435bc470aa70ec253ef488a7f5f41dd8-7e7c5b55216e989aae1c607e9bb0f9d5-1744294680-1744283880
 #EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=454472823&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjExOjEwIEFNJmhhc2hfdmFsdWU9UVNYd0Uzb2MvVkJRb1FlZHFWOXhxdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=454473306&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjIzOjE5IEFNJmhhc2hfdmFsdWU9bllvN1B2MDRjTmdGMEZrMS9wYkdTZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="17" tvg-name="Max Sport 3", Max Sport 3
+https://cdn11.stgledai.org/mtelsport3/tracks-v1a1/mono.m3u8?token=dbc76c753c99a036389201bf776835e2d6a36cf7-0b79af638ea52b3eeb1cb291f09edaa3-1744294700-1744283900
 #EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=21878850&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjExOjE3IEFNJmhhc2hfdmFsdWU9Qm9FSGIzeDZzZy9OZHRVOElwY09NUT09JnZhbGlkbWludXRlcz0zMCZpZD02N2Y3YTc1NTliNTBj
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=21879559&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjIzOjMxIEFNJmhhc2hfdmFsdWU9R01Da2tYOHIycWxqbVJHVDV1Q2Y2UT09JnZhbGlkbWludXRlcz0zMCZpZD02N2Y3YWEzMzc0ZjZm
 #EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=21878857&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjExOjIzIEFNJmhhc2hfdmFsdWU9TzRlTXNseEZDNUJRQVY0M2hzUzdqQT09JnZhbGlkbWludXRlcz0zMCZpZD02N2Y3YTc1YmYwNTc4
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=21879560&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDExOjIzOjQyIEFNJmhhc2hfdmFsdWU9dGR0ZjFYUkdKMjlwa3FtWTN2d3IwQT09JnZhbGlkbWludXRlcz0zMCZpZD02N2Y3YWEzZTc3M2M2
+#EXTINF:-1 tvg-id="18" tvg-name="Max Sport 4", Max Sport 4
+https://cdn8.stgledai.org/mtelsport4/tracks-v1a1/mono.m3u8?token=1f01c3cc9f4a3b4e103402081ab69f126badcc42-ae11e57211e4f3390538adb967cddcb1-1744294719-1744283919
+#EXTINF:-1 tvg-id="19" tvg-name="Diema Sport", Diema Sport
+https://cdn9.stgledai.org/diemasport/tracks-a1/mono.m3u8?token=e178144b802890f4100b9e0956946e641a6429f0-d4a26cd2a35fc76e6c093dd48585cdfb-1744294746-1744283946
+#EXTINF:-1 tvg-id="20" tvg-name="Diema Sport 2", Diema Sport 2
+https://cdn13.stgledai.org/diemasport2/tracks-v1a1/mono.m3u8?token=c8bb3bb2ca289de439951d2848414354ac5fa568-d818400ba393ca013a32993116777f7f-1744294764-1744283964
+#EXTINF:-1 tvg-id="21" tvg-name="Diema Sport 3", Diema Sport 3
+https://cdn13.stgledai.org/diemasport3/tracks-v1a1/mono.m3u8?token=79ec70bcf80a6ed219e0a454ef702395dc4f3435-00e7408682c7757a8af2c93459e36d17-1744294783-1744283983
+#EXTINF:-1 tvg-id="23" tvg-name="Ring TV", Ring TV
+https://cdn13.stgledai.org/ringbg/tracks-v1a1/mono.m3u8?token=c9d1ff636a1fe157cbf8e6ed2fec452b093976d2-cc1a47ee08cdf492e38192229f173cd9-1744294802-1744284002
