@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=454550881&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjA0IFBNJmhhc2hfdmFsdWU9cVF4Zy9Xb2JweHo1TDJ1eUQ1cXJXdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=454550888&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjEzIFBNJmhhc2hfdmFsdWU9Rmlub3VXMmVhNTAxRWUyaFRDb29Tdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11923548&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjIwIFBNJmhhc2hfdmFsdWU9YXVCUnE1T2VJMEdoY1Q5TUg3cGZqZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="4" tvg-name="Telma TV", Telma TV
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=454550903&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjI5IFBNJmhhc2hfdmFsdWU9M1g5NDRpbVZ1WVBSbnVUcklFd1AwQT09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=454550906&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjM2IFBNJmhhc2hfdmFsdWU9NnpRZEdYKzVYN1o4QkxIQUU0SytDZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=454550918&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjQ0IFBNJmhhc2hfdmFsdWU9Vko1N0dhUW43OE0xQWx6MTBOaTRkZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=21958130&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjUxIFBNJmhhc2hfdmFsdWU9dStUWWtsSDlVV0E4aE1WRGZOOFI4Zz09JnZhbGlkbWludXRlcz0zMCZpZD02N2Y5MDlkNzhhZWNj
+#EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=21958143&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjU3IFBNJmhhc2hfdmFsdWU9bjNCUll4SVVrVDhJc0ZZb0cxUU5qQT09JnZhbGlkbWludXRlcz0zMCZpZD02N2Y5MDlkZDlkZTY3
