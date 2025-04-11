@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=454556188&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6MTQgUE0maGFzaF92YWx1ZT1yNzNwVlAzL0pqOTE2M3o5OWNmWkl3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=454558706&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDM6Mjg6MDUgUE0maGFzaF92YWx1ZT1EQVdtUjZIU0NHUnFQczlCL3NPZFlRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=454556193&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6MjMgUE0maGFzaF92YWx1ZT1GSTNVeEtIY2hXNzhzLzBjMXFHeU9nPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=454558717&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDM6Mjg6MTQgUE0maGFzaF92YWx1ZT1sSWRXV3htVVpvVUVjMjhYOVpzS2tBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11925582&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6MzEgUE0maGFzaF92YWx1ZT1JalFVQWowdnpEY1lad1VsamE1NTlBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11927447&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDM6Mjg6MjEgUE0maGFzaF92YWx1ZT1mS0lLaFM1dWVCaW4ycXBmdjBnMzVBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="4" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=454556204&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6MzkgUE0maGFzaF92YWx1ZT1NMFNzZTZFbnB0d0ZSalQwTWhOcFlRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/telma/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDM6Mjg6MjkgUE0maGFzaF92YWx1ZT1rZUUxUFpaekt0SDF1cjNkaE1JRElBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=454556209&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6NDYgUE0maGFzaF92YWx1ZT1YMVl3TmtkV1VWa1dSR1V5aHJhQ3dnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=454558741&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDM6Mjg6MzYgUE0maGFzaF92YWx1ZT1hOU9NUTZ1Q2EwZjBQdXFFRFVtOWx3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=454556214&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6NTQgUE0maGFzaF92YWx1ZT1kQ25Kc1J3RDFIbDdta1ZFSXAzUmZBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=454558756&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDM6Mjg6NDMgUE0maGFzaF92YWx1ZT1qMFZ2c2hjTG5WT0EwM1pkeHYrV2xBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=21967311&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjE6MDEgUE0maGFzaF92YWx1ZT1ISTFCYnVxNUlXK2s3OTRQVElpbnVBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY3ZjkyNTRkN2Q5Mjc=
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=21970814&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDM6Mjg6NTAgUE0maGFzaF92YWx1ZT0yZ3ZiRU9VMDM5eFZVY1pyNTQ1Vk9BPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY3ZjkzNTMyZGEzM2U=
 #EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=21967319&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjE6MDcgUE0maGFzaF92YWx1ZT1RUHNQYXNSRjVOb2wzcUpOL2xvN0h3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY3ZjkyNTUzY2ZmNWY=
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=21970822&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDM6Mjg6NTcgUE0maGFzaF92YWx1ZT1pUWxVQUhjQXR5allrTlppTDdOZHpRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY3ZjkzNTM5NDI5MjE=
 #EXTINF:0 type="stream" channelId="-1" group="Музика" logo="https://tvprofil.com/img/kanali-logo/nasa-tv-logo.png", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:0 type="stream" channelId="3949" group="Музика", CoolTV
