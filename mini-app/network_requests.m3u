@@ -1,17 +1,199 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=454550881&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjA0IFBNJmhhc2hfdmFsdWU9cVF4Zy9Xb2JweHo1TDJ1eUQ1cXJXdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=454556188&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6MTQgUE0maGFzaF92YWx1ZT1yNzNwVlAzL0pqOTE2M3o5OWNmWkl3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=454550888&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjEzIFBNJmhhc2hfdmFsdWU9Rmlub3VXMmVhNTAxRWUyaFRDb29Tdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=454556193&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6MjMgUE0maGFzaF92YWx1ZT1GSTNVeEtIY2hXNzhzLzBjMXFHeU9nPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11923548&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjIwIFBNJmhhc2hfdmFsdWU9YXVCUnE1T2VJMEdoY1Q5TUg3cGZqZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11925582&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6MzEgUE0maGFzaF92YWx1ZT1JalFVQWowdnpEY1lad1VsamE1NTlBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="4" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=454550903&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjI5IFBNJmhhc2hfdmFsdWU9M1g5NDRpbVZ1WVBSbnVUcklFd1AwQT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=454556204&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6MzkgUE0maGFzaF92YWx1ZT1NMFNzZTZFbnB0d0ZSalQwTWhOcFlRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=454550906&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjM2IFBNJmhhc2hfdmFsdWU9NnpRZEdYKzVYN1o4QkxIQUU0SytDZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=454556209&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6NDYgUE0maGFzaF92YWx1ZT1YMVl3TmtkV1VWa1dSR1V5aHJhQ3dnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=454550918&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjQ0IFBNJmhhc2hfdmFsdWU9Vko1N0dhUW43OE0xQWx6MTBOaTRkZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=454556214&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjA6NTQgUE0maGFzaF92YWx1ZT1kQ25Kc1J3RDFIbDdta1ZFSXAzUmZBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=21958130&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjUxIFBNJmhhc2hfdmFsdWU9dStUWWtsSDlVV0E4aE1WRGZOOFI4Zz09JnZhbGlkbWludXRlcz0zMCZpZD02N2Y5MDlkNzhhZWNj
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=21967311&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjE6MDEgUE0maGFzaF92YWx1ZT1ISTFCYnVxNUlXK2s3OTRQVElpbnVBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY3ZjkyNTRkN2Q5Mjc=
 #EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=21958143&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDEyOjIzOjU3IFBNJmhhc2hfdmFsdWU9bjNCUll4SVVrVDhJc0ZZb0cxUU5qQT09JnZhbGlkbWludXRlcz0zMCZpZD02N2Y5MDlkZDlkZTY3
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=21967319&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI1IDI6MjE6MDcgUE0maGFzaF92YWx1ZT1RUHNQYXNSRjVOb2wzcUpOL2xvN0h3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY3ZjkyNTUzY2ZmNWY=
+#EXTINF:0 type="stream" channelId="-1" group="Музика" logo="https://tvprofil.com/img/kanali-logo/nasa-tv-logo.png", Naša TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:0 type="stream" channelId="3949" group="Музика", CoolTV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Star Plus Televizija 2
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", JazzTV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Забава", TVZdravkin.mk
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести", TV NOVA 12
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:0 type="stream" channelId="4230" group="Музика", CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Radio Lola
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести", TV - M
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Radio Karolina
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Muzzik Cafe&Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Muzzik HipHop Serbia
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Muzzik OKK Serbia
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Muzzik Rock&Roll Serbia
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Muzzik TV Serbia
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Muzzik Worldwide Serbia
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика" logo="https://i.imgur.com/cgvLP1E.png", Muzzik AMVA 2020
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Muzzik Jeka Serbia
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Muzzik Mediteraneo Serbia
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3543" group="Бугарски", Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", The Voice TV
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Бугарски", This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Бугарски" logo="https://predavatel.com/bg/images/tv1.gif", Kanal3 Tv
+https://tv1.cloudcdn.bg:8081/stream_hd720.m3u8
+#EXTINF:0 type="stream" channelId="2800" group="Бугарски", Travel TV
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:0 type="stream" channelId="2800" group="Турски", TurkeyTravel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Бугарски", Evrokom
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="3900" group="Бугарски", TV 1
+https://tv1.cloudcdn.bg:8081/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Забава", Top Estrada
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Бугарски", Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести" logo="https://i.imgur.com/vMzCr8O.png", Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести", Libertas HR
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Забава" logo="https://i.imgur.com/Mk28uUy.png", PINK NARODNA
+https://edge8.pink.rs/narodnatv/chunklist_w705099684.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Српски" logo="https://i.imgur.com/LIUtEgD.png", RTV AS
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:0 type="stream" channelId="4328" group="Спорт" logo="https://i.imgur.com/9SD40uH.png", SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4327" group="Српски" logo="https://i.imgur.com/XzAYOFK.png", TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Српски" logo="https://i.imgur.com/o5y1ok6.png", TV Pirot
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Српски" logo="https://i.imgur.com/0ZT3Bc2.png", TVCG 3
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1023" group="Вести" logo="https://www.jagledam.online/logo/logobn.jpg", BN TV
+https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести" logo="https://i.imgur.com/9QOfE8o.png", Bloomberg Adria
+https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести" logo="https://i.imgur.com/cH7UQuX.png", RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести" logo="https://i.imgur.com/TKUaflB.png", RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:0 type="stream" channelId="1887" group="Грчки" logo="https://i.imgur.com/XYWgd3E.png", Super TV Media
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:0 type="stream" channelId="1887" group="Грчки" logo="https://i.imgur.com/znpvJys.png", Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:0 type="stream" channelId="1887" group="Грчки" logo="https://i.imgur.com/4G9VvUg.png", Aeolos TV
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Грчки", Telekriti
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Deejay TV IT
+https://streamcdnf29-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b1728000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Radio m2o
+https://streamcdnf28-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика" logo="https://i.imgur.com/TZ1unwF.png", Baraza TV Deep House
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика" logo="https://i.imgur.com/TZ1unwF.png", Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Ocko TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика" logo="https://i.imgur.com/Qu7t15Y.png", Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика" logo="https://i.imgur.com/dQJQv1X.png", Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика" logo="https://i.imgur.com/rR44kv4.png", DASDING
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:0 type="stream" channelId="986" group="Музика" logo="https://i.imgur.com/HimuPPb.png", Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Забава" logo="https://i.imgur.com/ksB7Tq5.png", ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:0 type="stream" channelId="4439" group="Забава" logo="https://i.imgur.com/8KQirah.png", Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести", EWTN Europe
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Kiss TV Spain
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", MaldivesTv
+https://live.maldivestv.mv/hls/stream/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести" logo="https://i.imgur.com/lYa793q.png", AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Забава", True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="983" group="Забава", Welt
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/playlist-1280.m3u8
+#EXTINF:0 type="stream" channelId="4565" group="Забава", RFD-TV
+https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
+#EXTINF:0 type="stream" channelId="2316" group="Вести", TRT WORLDS
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:0 type="stream" channelId="143" group="Вести", RT
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_360p/chunklist_DVR.m3u8
+#EXTINF:0 type="stream" channelId="645" group="Документарни", RT Documentary
+https://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести", Yahoo Finance
+https://yahoo-plex.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:0 type="stream" channelId="1323" group="Вести", Canal 24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести", Al Jazeera Qatar
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести", NL
+https://live.omroepnet.nl/hls/1/stream.m3u8
+#EXTINF:0 type="stream" channelId="280" group="Музика", FashionTV
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Вести", CurrentTime TV
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт" logo="https://i.pinimg.com/736x/60/b7/93/60b793e877354a71e4d31aedbf507e0b.jpg", Outdoor Sports
+https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="За Деца", PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="За Деца" logo="https://i.pinimg.com/736x/67/88/19/6788194a1d0abef472689bf047567d8d.jpg", Kika Kids
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master-1080p-5000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт" size="Small", RTV
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Забава", RedBull AT
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ORF", ORF
+https://s6.hopslan.com/orfx1/index.m3u8
+#EXTINF:0 type="stream" channelId="969" name="Servus TV", Servus TV
+https://s6.hopslan.com/servusX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="975" name="Super RTL", Super RTL
+https://s6.hopslan.com/superX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ARD TV", ARD TV
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ZDF TV", ZDF TV
+https://s6.hopslan.com/zdfX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Vox TV", Vox TV
+https://s6.hopslan.com/voxX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="SiXX TV", SiXX TV
+https://s6.hopslan.com/sixX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Phoenix TV", Phoenix TV
+https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Филм" logo="https://i.pinimg.com/736x/4b/9c/19/4b9c1905460f7ab74fb0e66468866de4.jpg", Discover Film TV
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 type="stream" channelId="971" group="Забава", Kabel 1
+https://s6.hopslan.com/kabel1X/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музика", Radio HitFm
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:0 type="stream" channelId="1940" group="Музика", Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist360_p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Забава", Prensa Latina TV
+https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", BarcaTV
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
