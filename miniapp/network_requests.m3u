@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=454612871&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjU5OjU0IEFNJmhhc2hfdmFsdWU9Q2M1RXJNaEczdTNTVUpvNkl3c2J6Zz09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=454612874&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDExOjAwOjA0IEFNJmhhc2hfdmFsdWU9a3MydnhSKzBDTVdONkVGTGh5ZkE3dz09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11948816&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDExOjAwOjEyIEFNJmhhc2hfdmFsdWU9eVo1cG1pTDcwZFVWaXk1enJtb2ZYdz09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="4" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDExOjAwOjE5IEFNJmhhc2hfdmFsdWU9NktvN0thY0Y1WXh6NVhTQ3JDM0FqQT09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=454612886&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDExOjAwOjI2IEFNJmhhc2hfdmFsdWU9QStOaVVuN29WU2V2djVLTEVPM2ZrQT09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=454612892&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDExOjAwOjMzIEFNJmhhc2hfdmFsdWU9RnluaWozd0Q4REhDT0hubHJTcVlBZz09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=22011273&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDExOjAwOjQxIEFNJmhhc2hfdmFsdWU9b2NCTUIweVFnck5xNXJNQlBPWnEvZz09JnZhbGlkbWludXRlcz0zMCZpZD02N2ZhNDdkOWI3NjEw
-#EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=22011276&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDExOjAwOjUyIEFNJmhhc2hfdmFsdWU9OWdFM3FCZithMXo0dlk4ZFdmaFFVdz09JnZhbGlkbWludXRlcz0zMCZpZD02N2ZhNDdlNDQ5NGQz
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CoolTV", CoolTV
