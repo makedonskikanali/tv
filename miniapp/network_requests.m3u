@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=454612060&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjI5OjU2IEFNJmhhc2hfdmFsdWU9OUJtWWZWRE9nVjBNSWtCeWhxZ2dsZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=454612362&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjQwOjM3IEFNJmhhc2hfdmFsdWU9WjlnOUc0eWtTRGFJSC91MDZVUnlkQT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=454612065&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjMwOjA1IEFNJmhhc2hfdmFsdWU9bC9zUEVMZXl1Tmw1VnY3TkJUNzh0dz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=454612365&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjQwOjQ2IEFNJmhhc2hfdmFsdWU9YXl1bG5WYkJmWjB5aFB5SzBlLytlZz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11948497&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjMwOjEzIEFNJmhhc2hfdmFsdWU9eVdBSzhtdy9DR3lkdDYxLzVEREkzUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11948608&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjQwOjUzIEFNJmhhc2hfdmFsdWU9RS8wbVI1eDduY1F2cXB0aU8rdHZqUT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="4" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=454612080&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjMwOjIwIEFNJmhhc2hfdmFsdWU9VWgzR1NDM2lLUVVDaWhtZkE4T3JzUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/telma/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjQxOjAxIEFNJmhhc2hfdmFsdWU9STNMS2FDN1FnNWhsMjR5U3lkWWVNQT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=454612082&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjMwOjI4IEFNJmhhc2hfdmFsdWU9WkM4WnVUYTJaVURvMVZNQ2NrWXpmZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=454612378&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjQxOjA4IEFNJmhhc2hfdmFsdWU9Q0gwaFNqSlFDaHJxclBVcU4zam9mUT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=454612084&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjMwOjM2IEFNJmhhc2hfdmFsdWU9TE9EWENPUFh2Z01nQkwyenJOMEtNUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=454612380&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjQxOjE1IEFNJmhhc2hfdmFsdWU9dko0c3d2dTFIUm1qbm4rYjVrL204Zz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=22009959&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjMwOjQ0IEFNJmhhc2hfdmFsdWU9RnBJdGlFYlptR1lIOGZUdGVvZXg4Zz09JnZhbGlkbWludXRlcz0zMCZpZD02N2ZhNDBkNDY5ZWJj
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=22010520&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjQxOjIzIEFNJmhhc2hfdmFsdWU9L1BmdEI3K2poSTh3d21rZWhpN3B0UT09JnZhbGlkbWludXRlcz0zMCZpZD02N2ZhNDM1MzA0ZDMx
 #EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=22009964&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjMwOjUwIEFNJmhhc2hfdmFsdWU9U2JQVkY1eG1oYWNEdjBXUVBWcWhzUT09JnZhbGlkbWludXRlcz0zMCZpZD02N2ZhNDBkYTdmYTQx
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=22010525&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDEwOjQxOjI5IEFNJmhhc2hfdmFsdWU9Yk81TmRxR25QRE53ZTBkc0ErZGI0dz09JnZhbGlkbWludXRlcz0zMCZpZD02N2ZhNDM1OTlkOWU3
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CoolTV", CoolTV
@@ -215,42 +215,14 @@ https://clubbingtv-rakuten.amagi.tv/playlist360_p.m3u8
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8#EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
-#EXTINF:-1 tvg-id="-1" tvg-name="Probna1", Probna1
-http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 tvg-id="-1" tvg-name="Probna23", Probna23
-http://87.120.142.11:18000/Match!Arena
-#EXTINF:-1 tvg-id="-1" tvg-name="Probna3", Probna3
-http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="Probna4", Probna4
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="Probna5", Probna5
+#EXTINF:-1 tvg-id="-1" tvg-name="MAX Sport 1", MAX Sport 1
+http://213.91.178.133:8000/play/a0as
+#EXTINF:-1 tvg-id="-1" tvg-name="MAX Sport 2", MAX Sport 2
 http://213.91.178.133:8000/play/a0at
-#EXTINF:-1 tvg-id="-1" tvg-name="Probna6", Probna6
+#EXTINF:-1 tvg-id="-1" tvg-name="MAX Sport 3", MAX Sport 3
 http://213.91.178.133:8000/play/a0ar
-#EXTINF:-1 tvg-id="-1" tvg-name="Probna7", Probna7
+#EXTINF:-1 tvg-id="-1" tvg-name="MAX Sport 4", MAX Sport 4
 http://213.91.178.133:8000/play/a05n
-#EXTINF:-1 tvg-id="-1" tvg-name="Probna8", Probna8
-http://eu.huohuoaa.tech:1025/Smart.php?id=Hbohits
-#EXTINF:-1 tvg-id="-1" tvg-name="HBO", HBO
-http://eu.huohuoaa.tech:1025/Smart.php?id=Hbo
-#EXTINF:-1 tvg-id="-1" tvg-name="HBO 2", HBO 2
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="Discovery", Discovery
-#EXTINF:-1 tvg-id="-1" tvg-name="Animal Planet", Animal Planet
-https://haoyunlai.serv00.net/Smartv-1.php?id=AnimalPlanet
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="Fox News", Fox News
-http://wanicelife.com:8880/live/6mc210004/48576998/28929.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="Fox Sports", Fox Sports
-https://7pal.short.gy/fox506au
-#EXTINF:-1 tvg-id="-1" tvg-name="Astro", Astro PremierLeague
-https://haoyunlai.serv00.net/Smartv-1.php?id=Assp1
-#EXTINF:-1 tvg-id="-1" tvg-name="Astro", Astro PremierLeague 2
-https://haoyunlai.serv00.net/Smartv-1.php?id=go_assp2
-#EXTINF:-1 tvg-id="-1" tvg-name="MTV Hits", MTV HITS
-https://haoyunlai.serv00.net/Smartv-1.php?id=AstroMTV
-#EXTINF:-1 tvg-id="-1" tvg-name="MTV Live", MTV Live
-http://aktv-stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="NOW 70s", NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="EUROSPORT", EUROSPORT HD Live
