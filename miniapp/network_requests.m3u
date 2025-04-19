@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="100" tvg-name="MRT 1", MRT 1
-https://wikinew.newkso.ru/wiki/PNpYBn6hAz/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
-https://navvy.media.net/log
-#EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/l_1085_35166560_5858.ts?nimblesessionid=12050460&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDI1IDE6NDc6MDIgUE0maGFzaF92YWx1ZT1WYjc1a05JdXVhUjJINUJET0lQMFNBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/l_55877_1973960_197.ts?nimblesessionid=454861067&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDI1IDE6NDg6MTUgUE0maGFzaF92YWx1ZT16YUlpekxUZlZrWElOODNpMGdvaXFBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=22613851&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDI1IDE6NDk6MjQgUE0maGFzaF92YWx1ZT1NcUpwazRXSk1mNDVpZFlqb2FJcGFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY3ZmZiNTY0NzIyZGU=
 #EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=22613898&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDI1IDE6NDk6NDggUE0maGFzaF92YWx1ZT1OZExZQVJlOCt6dS9QMDR4UGJJU0FRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY3ZmZiNTdjNmVjOWM=
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=22961504&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDY6NDg6MDMgUE0maGFzaF92YWx1ZT1MZFJTZFNTNTFHcUVXYS9mRDdzNXZnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4MDNlZmUzNTg2Mzg=
