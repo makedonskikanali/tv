@@ -1,17 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDY6NTY6NDMgUE0maGFzaF92YWx1ZT0zOFpXTjA4MXFYZVppWHBUazcxTklnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=455093039&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDY6NTY6NTMgUE0maGFzaF92YWx1ZT1pNHBpYzRnbzlIR21ZT09Fcnk4MGRRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=12145843&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDY6NTc6MDIgUE0maGFzaF92YWx1ZT1keWxDM1Q4WE04UEMxVjFTT2VwcHhRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="4" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDY6NTc6MTAgUE0maGFzaF92YWx1ZT1JWTZVVGczSWU5MlVkYmZxblVSWC9nPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDY6NTc6MTcgUE0maGFzaF92YWx1ZT1oMlc0YWgra3FxK2p0cHZtUmNMZE9nPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=455093076&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDY6NTc6MjYgUE0maGFzaF92YWx1ZT1WK0Q2R1paWmpod1grUW9PYjgwK1NBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=22961868&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDY6NTc6MzcgUE0maGFzaF92YWx1ZT14Um9rRHNFUm45OUM4blV4QTQ1RjhnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4MDNmMjIxZWMzM2I=
-#EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=22961872&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDY6NTc6NDYgUE0maGFzaF92YWx1ZT05cE42YUZHcTZtZDZ5bGVRNDFDQlp3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4MDNmMjJhM2U4NWE=
