@@ -1,17 +1,12 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDExOjE2OjMyIFBNJmhhc2hfdmFsdWU9SUEzajJOaGhqODJkZTB0bWZ0d1kvdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/mrt1_360p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDEyOjA1OjEyIEFNJmhhc2hfdmFsdWU9UldHc1NYRlB3MzJQS0k1cUNaekpFUT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=455111395&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDExOjE2OjQyIFBNJmhhc2hfdmFsdWU9R0VxN3MzUDdhLzlZdUFNbmVnQVdpdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=455112359&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDEyOjA1OjIyIEFNJmhhc2hfdmFsdWU9cEJVaGxmUXk4R1RMYmVLTjBrbXFqdz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=12151183&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDExOjE2OjUxIFBNJmhhc2hfdmFsdWU9VTh4NTVwa0NRMjBlYzNhenh5ZTJ3UT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=12151604&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDEyOjA1OjMwIEFNJmhhc2hfdmFsdWU9OTJZK3N1ejlhTlpKQU4ySGF2amNmQT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="4" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=455111400&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDExOjE3OjAwIFBNJmhhc2hfdmFsdWU9NFdQNFFiVnpMWmRKbzdEVVlScE9vUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=455112366&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDEyOjA1OjQwIEFNJmhhc2hfdmFsdWU9bW5MNWxVVFdERFl0Y3NNczdsVXRidz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=455111404&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDExOjE3OjA4IFBNJmhhc2hfdmFsdWU9S1pMTjJ3eDNNRytTZ0FRelc3RG9VQT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=455112367&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDEyOjA1OjQ4IEFNJmhhc2hfdmFsdWU9STAvVnh5bStGUVZ1Z1ZJYTNBQU93Zz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=455111408&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDExOjE3OjE3IFBNJmhhc2hfdmFsdWU9Q2UxZDE1N1hUbUZ2YTlqV0NHUFEydz09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=22969975&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDExOjE3OjMwIFBNJmhhc2hfdmFsdWU9dXZubGxvY0tpM3V5dTM1SXlvTGR3Zz09JnZhbGlkbWludXRlcz0zMCZpZD02ODA0MmYwYTMyYzQ2
-#EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=22969977&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDExOjE3OjM5IFBNJmhhc2hfdmFsdWU9cnlNZFN6aHZBWUFoaE5lbWpjVk9TUT09JnZhbGlkbWludXRlcz0zMCZpZD02ODA0MmYxMzBiNjYz
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=455112369&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDEyOjA1OjU4IEFNJmhhc2hfdmFsdWU9TXI0cnF5K2VlVzk1dVQyYWh2SVpKZz09JnZhbGlkbWludXRlcz03JmlkPTU=
